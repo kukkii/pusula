@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "HELLLOOOOOO"; ObjectID = "7Vh-RH-i7g"; */
+"7Vh-RH-i7g.text" = "HELLLOOOOOO";
+
+/* Class = "UITabBarItem"; title = "Events"; ObjectID = "B1g-TA-p5O"; */
+"B1g-TA-p5O.title" = "Events";
+
+/* Class = "UITabBarItem"; title = "Food"; ObjectID = "Hfo-64-RIG"; */
+"Hfo-64-RIG.title" = "Food";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UITabBarItem"; title = "Shuttle"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Shuttle";
+
+/* Class = "UILabel"; text = "Second View"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Second View";
